@@ -1,7 +1,7 @@
 # HashSet
 
-__importances des m�thodes equals() et hashCode() dans les objets de collections__
+**importances des méthodes equals() et hashCode() dans les objets de collections**
 
-__Si hashCode() n'est pas rajouté, les contenus dupliqués ne seront pas effacés__
+**Si hashCode() n'est pas rajouté, les contenus dupliqués ne seront pas effacés**
 
 HashSet does not allow duplicated values
