@@ -1,5 +1,7 @@
 # collections
 
+![collections](Capture.JPG)
+
 Les interfaces
 
 - List
